@@ -1,0 +1,20 @@
+{
+  "name": "Arrowcraft",
+  "short_name": "Arrowcraft",
+  "description": "Category theory as a quiet puzzle game. Twenty questions about arrows, asked in five worlds. Plays offline; progress stays on this device.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A09",
+  "theme_color": "#0A0A09",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
